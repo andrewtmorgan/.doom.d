@@ -59,7 +59,7 @@
 ;; (setq doom-theme 'spacemacs-light)
 ;;(setq doom-theme 'doom-tomorrow-day)
 ;;(setq fancy-splash-image "~/Downloads/human_brain_sagittal.png")
-(setq fancy-splash-image "/Users/morganat/.doom.d/images/monkey_brain.png")
+(setq fancy-splash-image "~/.doom.d/images/monkey_brain.png")
 
 ;; set the default directory
 (setq default-directory org-directory)
